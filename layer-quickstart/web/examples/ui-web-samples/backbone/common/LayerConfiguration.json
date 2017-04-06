@@ -1,0 +1,7 @@
+[
+	{
+		"name": "Hello",
+		"app_id": "layer:///apps/staging/28353c82-19f0-11e7-ba59-a30d26a0884a",
+		"identity_provider_url": "https://hellolayer.herokuapp.com"
+	}
+]
